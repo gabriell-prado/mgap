@@ -1,2 +1,1 @@
-# mgap
-MGAP - Multilevel Generalization assignment problem
+# MGAP - Multilevel Generalization assignment problem
