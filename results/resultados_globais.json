@@ -1,0 +1,322 @@
+[
+  {
+    "instancia": "Instância 1",
+    "status": "Optimal",
+    "lucro_total": 276.0,
+    "tempo_segundos": 0.0748,
+    "atribuições": [
+      {
+        "agente": 1,
+        "tarefa": 6,
+        "nivel": 1,
+        "lucro": 31,
+        "custo": 9
+      },
+      {
+        "agente": 1,
+        "tarefa": 7,
+        "nivel": 1,
+        "lucro": 41,
+        "custo": 6
+      },
+      {
+        "agente": 2,
+        "tarefa": 3,
+        "nivel": 1,
+        "lucro": 27,
+        "custo": 8
+      },
+      {
+        "agente": 2,
+        "tarefa": 5,
+        "nivel": 1,
+        "lucro": 36,
+        "custo": 4
+      },
+      {
+        "agente": 2,
+        "tarefa": 8,
+        "nivel": 1,
+        "lucro": 34,
+        "custo": 12
+      },
+      {
+        "agente": 3,
+        "tarefa": 1,
+        "nivel": 1,
+        "lucro": 34,
+        "custo": 8
+      },
+      {
+        "agente": 3,
+        "tarefa": 2,
+        "nivel": 2,
+        "lucro": 37,
+        "custo": 8
+      },
+      {
+        "agente": 3,
+        "tarefa": 4,
+        "nivel": 2,
+        "lucro": 36,
+        "custo": 13
+      }
+    ]
+  },
+  {
+    "instancia": "Instância 2",
+    "status": "Optimal",
+    "lucro_total": 293.0,
+    "tempo_segundos": 0.0591,
+    "atribuições": [
+      {
+        "agente": 1,
+        "tarefa": 3,
+        "nivel": 2,
+        "lucro": 34,
+        "custo": 13
+      },
+      {
+        "agente": 1,
+        "tarefa": 7,
+        "nivel": 1,
+        "lucro": 41,
+        "custo": 5
+      },
+      {
+        "agente": 2,
+        "tarefa": 5,
+        "nivel": 1,
+        "lucro": 36,
+        "custo": 6
+      },
+      {
+        "agente": 2,
+        "tarefa": 6,
+        "nivel": 2,
+        "lucro": 41,
+        "custo": 12
+      },
+      {
+        "agente": 2,
+        "tarefa": 8,
+        "nivel": 1,
+        "lucro": 34,
+        "custo": 6
+      },
+      {
+        "agente": 3,
+        "tarefa": 1,
+        "nivel": 1,
+        "lucro": 34,
+        "custo": 12
+      },
+      {
+        "agente": 3,
+        "tarefa": 2,
+        "nivel": 2,
+        "lucro": 37,
+        "custo": 8
+      },
+      {
+        "agente": 3,
+        "tarefa": 4,
+        "nivel": 2,
+        "lucro": 36,
+        "custo": 12
+      }
+    ]
+  },
+  {
+    "instancia": "Instância 3",
+    "status": "Optimal",
+    "lucro_total": 143.0,
+    "tempo_segundos": 0.0438,
+    "atribuições": [
+      {
+        "agente": 1,
+        "tarefa": 1,
+        "nivel": 1,
+        "lucro": 23,
+        "custo": 8
+      },
+      {
+        "agente": 1,
+        "tarefa": 2,
+        "nivel": 2,
+        "lucro": 18,
+        "custo": 11
+      },
+      {
+        "agente": 1,
+        "tarefa": 5,
+        "nivel": 1,
+        "lucro": 20,
+        "custo": 5
+      },
+      {
+        "agente": 2,
+        "tarefa": 4,
+        "nivel": 2,
+        "lucro": 16,
+        "custo": 5
+      },
+      {
+        "agente": 2,
+        "tarefa": 6,
+        "nivel": 2,
+        "lucro": 13,
+        "custo": 6
+      },
+      {
+        "agente": 3,
+        "tarefa": 3,
+        "nivel": 1,
+        "lucro": 18,
+        "custo": 7
+      },
+      {
+        "agente": 3,
+        "tarefa": 7,
+        "nivel": 2,
+        "lucro": 16,
+        "custo": 8
+      },
+      {
+        "agente": 3,
+        "tarefa": 8,
+        "nivel": 1,
+        "lucro": 19,
+        "custo": 7
+      }
+    ]
+  },
+  {
+    "instancia": "Instância 4",
+    "status": "Optimal",
+    "lucro_total": 166.0,
+    "tempo_segundos": 0.034,
+    "atribuições": [
+      {
+        "agente": 1,
+        "tarefa": 1,
+        "nivel": 1,
+        "lucro": 25,
+        "custo": 10
+      },
+      {
+        "agente": 1,
+        "tarefa": 5,
+        "nivel": 1,
+        "lucro": 21,
+        "custo": 8
+      },
+      {
+        "agente": 1,
+        "tarefa": 7,
+        "nivel": 1,
+        "lucro": 22,
+        "custo": 7
+      },
+      {
+        "agente": 1,
+        "tarefa": 8,
+        "nivel": 1,
+        "lucro": 19,
+        "custo": 5
+      },
+      {
+        "agente": 2,
+        "tarefa": 2,
+        "nivel": 1,
+        "lucro": 18,
+        "custo": 5
+      },
+      {
+        "agente": 3,
+        "tarefa": 3,
+        "nivel": 1,
+        "lucro": 19,
+        "custo": 7
+      },
+      {
+        "agente": 3,
+        "tarefa": 4,
+        "nivel": 1,
+        "lucro": 20,
+        "custo": 8
+      },
+      {
+        "agente": 3,
+        "tarefa": 6,
+        "nivel": 1,
+        "lucro": 22,
+        "custo": 7
+      }
+    ]
+  },
+  {
+    "instancia": "Instância 5",
+    "status": "Optimal",
+    "lucro_total": 143.0,
+    "tempo_segundos": 0.0493,
+    "atribuições": [
+      {
+        "agente": 1,
+        "tarefa": 1,
+        "nivel": 1,
+        "lucro": 18,
+        "custo": 6
+      },
+      {
+        "agente": 2,
+        "tarefa": 2,
+        "nivel": 1,
+        "lucro": 18,
+        "custo": 7
+      },
+      {
+        "agente": 2,
+        "tarefa": 5,
+        "nivel": 1,
+        "lucro": 19,
+        "custo": 7
+      },
+      {
+        "agente": 2,
+        "tarefa": 7,
+        "nivel": 1,
+        "lucro": 18,
+        "custo": 7
+      },
+      {
+        "agente": 3,
+        "tarefa": 3,
+        "nivel": 1,
+        "lucro": 18,
+        "custo": 7
+      },
+      {
+        "agente": 3,
+        "tarefa": 4,
+        "nivel": 1,
+        "lucro": 17,
+        "custo": 6
+      },
+      {
+        "agente": 3,
+        "tarefa": 6,
+        "nivel": 1,
+        "lucro": 18,
+        "custo": 7
+      },
+      {
+        "agente": 3,
+        "tarefa": 8,
+        "nivel": 1,
+        "lucro": 17,
+        "custo": 6
+      }
+    ]
+  }
+]
