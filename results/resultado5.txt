@@ -1,0 +1,13 @@
+Status: Optimal
+Lucro total: 259.0
+Tempo de execução: 0.0461s
+
+Atribuições:
+Agente 1 faz Tarefa 7 no Nível 1 (lucro=16, custo=4)
+Agente 1 faz Tarefa 8 no Nível 1 (lucro=43, custo=3)
+Agente 2 faz Tarefa 2 no Nível 1 (lucro=18, custo=7)
+Agente 2 faz Tarefa 3 no Nível 2 (lucro=39, custo=8)
+Agente 2 faz Tarefa 5 no Nível 1 (lucro=19, custo=7)
+Agente 3 faz Tarefa 1 no Nível 1 (lucro=67, custo=9)
+Agente 3 faz Tarefa 4 no Nível 1 (lucro=17, custo=6)
+Agente 3 faz Tarefa 6 no Nível 2 (lucro=40, custo=9)

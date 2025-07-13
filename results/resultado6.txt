@@ -1,0 +1,8 @@
+Status: Optimal
+Lucro total: 26.0
+Tempo de execução: 0.0302s
+
+Atribuições:
+Agente 1 faz Tarefa 2 no Nível 2 (lucro=6, custo=3)
+Agente 1 faz Tarefa 3 no Nível 2 (lucro=8, custo=2)
+Agente 2 faz Tarefa 1 no Nível 2 (lucro=12, custo=5)
